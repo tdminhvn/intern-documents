@@ -34,13 +34,13 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 #### Phần 3: Hàm Callback, Promise và Async / Await
 
 1. Ví dụ về hàm callback, gọi nhiều hàm callback lồng nhau, callback hell
-2. Thêm Error vào hàm callback, chuyển callback thành Promise
+2. Thêm Error vào hàm callback, chuyển callback thành Promise
 3. Viết và sử dụng hàm dạng async-await, loại bỏ callback hell
 
 #### Phần 4: Events và EventEmitter
 
 1. Giới thiệu về Event. Ví dụ với bài toán thông báo lịch đi cắm trại, lịch học p1
-2. Giới thiệu về Event. Ví dụ với bài toán thông báo lịch đi cắm trại, lịch học p2
+2. Giới thiệu về Event. Ví dụ với bài toán thông báo lịch đi cắm trại, lịch học p2
 3. Khai báo Error Event. Ví dụ với trường hợp 1 object lắng nghe nhiều Events
 
 #### Phần 5: Nodejs với mô hình Client-Server. Các ví dụ với Router
