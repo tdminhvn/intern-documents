@@ -52,13 +52,13 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 
 #### Phần 6. File và thư mục, truyền tham số URL trong Nodejs
 
-1. Liệt kê các File và Folder trong 1 thư mục
+1. Liệt kê các File và Folder trong 1 thư mục
 2. Truyền tham số qua URL Parameter, tính chỉ số BMI
 
 #### Phần 7. EJS Template xây dựng các form phía Frontend(Client)
 
-1. Viết EJS template tạo form nhập dữ liệu tính chỉ số BMI
-   2 Viết form đăng nhập kết hợp phương thức POST và GET
+1. Viết EJS template tạo form nhập dữ liệu tính chỉ số BMI
+2. Viết form đăng nhập kết hợp phương thức POST và GET
 
 #### Phần 8. Upload files trong Nodejs
 
@@ -75,11 +75,11 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 1. Cài đặt cơ sở dữ liệu MongoDB trên Ubuntu 18.04 LTS
 2. Cài đặt MongoDB trên MacOS 10.14-Mojave
 3. Cài đặt cơ sở dữ liệu MongoDB trên Windows 10
-4. Tạo và phân quyền cho database user, đăng nhập DB và authentication
+4. Tạo và phân quyền cho database user, đăng nhập DB và authentication
 
 #### Phần 11. Các câu lệnh Insert,Update, Delete, Query, Aggregation trong MongoDB
 
-1. Insert-thêm 1 hoặc nhiều document vào trong một Mongodb Collection
+1. Insert-thêm 1 hoặc nhiều document vào trong một Mongodb Collection
 2. Query và tìm kiếm document trong một Mongodb Collection
 3. Update-cập nhật và xoá-delete một hoặc nhiều documents trong 1 collection
 4. Join 2 collections quan hệ 1-n với Aggregate
@@ -87,7 +87,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 
 #### Phần 12. Kết nối Nodejs với MongoDB qua Moongose
 
-1. Đăng nhập MongoDB bằng Nodejs với Mongoose, tạo Schema và Models
+1. Đăng nhập MongoDB bằng Nodejs với Mongoose, tạo Schema và Models
 2. Thêm và xoá danh sách documents với Mongoose Nodejs
 3. Query có điều kiện và paging các bản ghi với Mongoose
 4. Cập nhật-update và xoá-delete một doc trong Mongoose p1
@@ -95,7 +95,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 
 #### Phần 13. Các kỹ thuật nâng cao với Mongoose
 
-1. Quan hệ 1-n với Mongoose.Sử dụng ref làm quan hệ giữa các doc
+1. Quan hệ 1-n với Mongoose.Sử dụng ref làm quan hệ giữa các doc
 2. Mongoose populate, Join qua lại 2 bảng có quan hệ 1-n
 3. Dynamic ref-Tham chiếu động cùng lúc 2 thực thể P1
 4. Dynamic ref-Tham chiếu động cùng lúc 2 thực thể P2
@@ -109,7 +109,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 
 #### Phần 15. Viết các API CRUD-thêm, sửa, xoá, cập nhật data kết hợp Nodejs, Mongoose, JWT
 
-1. Viết api thêm mới các BlogPost vào User-yêu cầu token
+1. Viết api thêm mới các BlogPost vào User-yêu cầu token
 
 2. Viết api lọc danh sách các BlogPost-không yêu cầu token
 3. Cập nhật và xoá 1 BlogPost-yêu cầu có token
@@ -122,7 +122,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 #### Phần 17. Vuejs cơ bản - Xây dựng các Component phía Front-End
 
 1. Tạo mới dự án Vuejs và làm quen với các khái niệm components, props trong Vue.js
-2. Thêm data vào Component, sử dụng các directive v-for và v-if
+2. Thêm data vào Component, sử dụng các directive v-for và v-if
 3. Binding dữ liệu 2 chiều với v-model, viết action cho button với v-on click
 4. Tích hợp Bootstrap vào Vue.js.Validate các thông tin đầu vào thẻ input
 
@@ -133,7 +133,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 3. Thêm màn hình Register nhập thông tin đăng ký User với VueJS
 4. Hàm fetch gửi POST request đăng ký user từ Vue sang Node, enable CORS
 5. VueRouter-Viết router chứa các màn hình Home và Login
-6. Đăng nhập user từ Vuejs-lưu thông tin đăng nhập vào session
+6. Đăng nhập user từ Vuejs lưu thông tin đăng nhập vào session
 
 #### Phần 19. Ảo hóa Node.js với Docker
 
