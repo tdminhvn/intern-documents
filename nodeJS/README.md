@@ -111,7 +111,7 @@ V8 engine là một JavaScript engine mã nguồn mở chạy trên các trình 
 
 1. Viết api thêm mới các BlogPost vào User-yêu cầu token
 
-2. Viết api lọc danh sách các BlogPost-không yêu cầu token
+2. Viết api lọc danh sách các BlogPost-không yêu cầu token
 3. Cập nhật và xoá 1 BlogPost-yêu cầu có token
 
 #### Phần 16. Phân quyền và viết các API cho tài khoản Admin
